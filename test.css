@@ -1,0 +1,21 @@
+
+body {
+    width: 100%;
+    margin: 0;
+}
+
+.caixa1, .caixa2 , .caixa3{
+    height: 150px;
+    width: 50%;
+    margin: 0;
+}
+.caixa1 {
+    background-color: crimson;
+    margin-top: 0;
+    float:none;
+
+}
+.caixa2 {
+    background-color: blue;
+
+}
