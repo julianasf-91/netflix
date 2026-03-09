@@ -59,3 +59,15 @@ clone-netflix/
     ├── facebook-logo.png
     └── favicon-netflix.ico
 
+```
+
+## ▶️ Como executar
+
+1. Clone o repositório
+2. Abra o arquivo `index.html` no navegador
+
+---
+
+## 👩‍💻 Autora
+
+**Juliana Ferreira**
